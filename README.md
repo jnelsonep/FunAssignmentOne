@@ -1,4 +1,4 @@
-# Lab 1 - CYBR 2980
+# Fun Assignment 1 for CyberSecurity 
 
 ## Overview
 - Setup GitHub account
@@ -23,7 +23,7 @@
   - Alternatively you can type **F5** on your keyboard
 
 ## Instructions
-- Copy the GitHub link for this lab https://github.com/UNO-Babb/Lab1
+- Copy the GitHub link for this lab 
 - In [Repl.it](https://repl.it), click the **New Repl (+)** in the top right corner
 - Select **Import from GitHub** and paste the link
 - The **.replit** file decides what happens when you click the run button
@@ -38,7 +38,7 @@ Please label all of your work. There is an area at the top of the code for the f
 #FirstProgram.py
 #Name:
 #Date:
-#Assignment: Lab 1
+#Assignment: Fun Assignment One
 #Purpose: To ask a user for their name, and calculate their birth year.
 ```
 - We are going to make a program that that says hello and asks for your name.  
@@ -79,4 +79,4 @@ Please remember to fill in all of the info at the top of the document.
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
 ## End of class
-In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
+In Repl.it, you will find the share link to your code. That is what gets submitted to Schoology.
