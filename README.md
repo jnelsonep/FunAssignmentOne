@@ -56,7 +56,7 @@ print(answer)
 ```
 
 ## MadLib.py
-Create a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) where the user supplies key adjectives, nouns, verbs, adverbs, or other types of speech then constructs a full story with those words.
+Create a [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) where the user supplies key adjectives, nouns, verbs, adverbs, or other types of speech then constructs a full story with those words. I found some other fun stories if you'd rather use one [pregenerated version](https://www.eduplace.com/tales/)
 
 Your Mad Lib must:
 - Ask for at least 6 words
