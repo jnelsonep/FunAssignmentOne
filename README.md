@@ -5,22 +5,6 @@
   - [GitHub.com](https://www.github.com)
 - Create an account on [Repl.it](https://repl.it/)
 ---
-### Atom Editor
-- How to configure Python on your home computers
-  - Download Python
-    - [python.org](https://www.python.org/)
-  - Download Atom
-    - [Atom.io](https://atom.io/)
-  - Install Python-run
-    - File -> Settings
-    - Install -> python
-    - Click Install on the python-run extension
-    - Hit F5 on your computer to run your current python script.
-### IDLE Editor
-- IDE that comes with Python when you download
-- Opens to an interactive shell
-- You can run scripts by from the **Run** menu and choosing **Run Script**
-  - Alternatively you can type **F5** on your keyboard
 
 ## Instructions
 - Copy the GitHub link for this lab 
